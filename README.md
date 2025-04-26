@@ -1,5 +1,5 @@
 # BIOVIA_DSV
-BIOVIA Discovery Studio Visualizer Linux (Ubuntu) Installation Guide
+BIOVIA Discovery Studio Visualizer 2025 Linux (Ubuntu) Installation Guide
 
 **STEP 1**
 
